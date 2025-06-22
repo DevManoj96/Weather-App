@@ -65,13 +65,13 @@ pip install requests
 
 3. Via Python:
 
-  1. Clone the repositroy
+  - Clone the repositroy
   ```bash
   git clone https://github.com/DevManoj96/Weather-App.git
   cd Weather-App
   ```
   
-  2. Run The Program
+  - Run The Program
   ```bash
   python3 weather_app.py
   ```
