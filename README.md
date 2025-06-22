@@ -21,6 +21,7 @@ It uses the **OpenWeatherMap API** to show real-time weather data for any city, 
 ## 📸 Screenshots
 
 1. Dark Mode --
+   
   a) Main Window:
 
   ![main_tab(dark)](https://github.com/user-attachments/assets/5d355761-b628-407d-8404-7ed5329cc29a)
@@ -31,6 +32,7 @@ It uses the **OpenWeatherMap API** to show real-time weather data for any city, 
 
 
 2. Light Mode --
+   
   a) Main Window:
 
 ![main_tab(light)](https://github.com/user-attachments/assets/7b7fcbc4-7a41-4ea0-b8f6-ad428ec9a270)
@@ -62,7 +64,7 @@ pip install requests
   Download WeatherApp-x86_64.AppImage from latest release
 
 3. Via Python:
-   
+
   1. Clone the repositroy
   ```bash
   git clone https://github.com/DevManoj96/Weather-App.git
