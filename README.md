@@ -21,20 +21,23 @@ It uses the **OpenWeatherMap API** to show real-time weather data for any city, 
 ## 📸 Screenshots
 
 1. Dark Mode --
-a) Main Window:
+  a) Main Window:
+
+  ![main_tab(dark)](https://github.com/user-attachments/assets/5d355761-b628-407d-8404-7ed5329cc29a)
+
+  b) History Window:
+
+  ![history_tab(dark)](https://github.com/user-attachments/assets/7ce7742d-c861-451f-8141-f1642664ef6d)
 
 
-b) History Window:
+2. Light Mode --
+  a) Main Window:
 
+![main_tab(light)](https://github.com/user-attachments/assets/7b7fcbc4-7a41-4ea0-b8f6-ad428ec9a270)
 
+  b) History Window:
 
-2. Light Mode -- 
-a) Main Window:
-
-
-b) History Window:
-
-
+  ![history_tab(light)](https://github.com/user-attachments/assets/6d15f961-2fc0-4fc3-852f-306c67285be1)
 
 ---
 
@@ -52,16 +55,24 @@ pip install requests
 --- 
 
 ## 📦 Installation
-1. Clone the repositroy
-```bash
-git clone <URL>
-cd <Dir>
-```
+1. For Windows:
+   Download weather_app from latest release
 
-2. Run The Program
-```bash
-python3 file.py
-```
+2. For Linux:
+  Download WeatherApp-x86_64.AppImage from latest release
+
+3. Via Python:
+   
+  1. Clone the repositroy
+  ```bash
+  git clone https://github.com/DevManoj96/Weather-App.git
+  cd Weather-App
+  ```
+  
+  2. Run The Program
+  ```bash
+  python3 weather_app.py
+  ```
 
 ---
 
